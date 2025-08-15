@@ -7,7 +7,7 @@
   <img src="https://media.giphy.com/media/ZVik7pBtu9dNS/giphy.gif" width="120" alt="Hacker GIF"/>
 </p>
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey%2C+I%27m+Karthik+Raja+%F0%9F%91%8B;Cyber+Security+Researcher+%F0%9F%94%92;Automation+Enthusiast+%F0%9F%A4%96;Blue+Team+in+training+%F0%9F%94%B4" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&width=435&lines=Hey%2C+I%27m+Karthik+Raja+%F0%9F%91%8B;Cyber+Security+Researcher+%F0%9F%94%92;Aut[...]
 </p>
 
 <blockquote align="center">
@@ -25,6 +25,18 @@
 - 🤖 5+ Security Automation Projects (scripts that run while I sleep 😴)
 - 🎯 Building my career towards SOC L1 Analyst
 - 🐍 Fluent in Python, PHP, Bash, and more
+
+---
+
+### 🏅 Achievements
+
+- 🏆 **GENCYS UST CTF 2025 Finalist**  
+  Currently competing in the prestigious GENCYS UST CTF Finals.
+- 🎉 **Letter of Appreciation**  
+  Received a Letter of Appreciation for outstanding contributions.  
+  [View Certificate (PDF)](./Achievements/Note_Of_Appreciation_Karthik_Raja_2025.pdf)
+- 🤖 **UiPath Student Developer Summit Attendee**  
+  Participated in the UiPath Student Developer Summit—expanding automation and RPA skills.
 
 ---
 
