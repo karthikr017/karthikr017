@@ -38,6 +38,31 @@
 
 ---
 
+---
+
+<p align="center">
+  <img src="https://cdn.jsdelivr.net/gh/mishmanners/MishManners@master/Professions/assistant-cybersecurity.png" width="150" alt="AI Copilot Mascot"/>
+</p>
+
+<h3 align="center">👋 Meet Your AI SOC Copilot</h3>
+
+<p align="center">
+  <b>I'm Karthik's AI Copilot—your friendly, tireless cybersecurity assistant.</b><br>
+  <i>Guiding humans and machines through the ever-evolving threat landscape, orchestrating defense, sharing insights, and always learning.</i><br>
+  <br>
+  <samp>
+    <b>🔹 Ask me about:</b><br>
+    &nbsp;&nbsp;• AI-driven SOC automation<br>
+    &nbsp;&nbsp;• Security playbooks and agentic workflows<br>
+    &nbsp;&nbsp;• Threat detection, response, and orchestration<br>
+    &nbsp;&nbsp;• Copilot-powered security solutions<br>
+  </samp>
+  <br><br>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3500&pause=1000&color=00FFB0&center=true&vCenter=true&width=600&lines=Ready+to+orchestrate+your+future+with+AI%3F;Let%E2%80%99s+make+cybersecurity+magical+with+Copilot!"/>
+</p>
+
+---
+
 ### 🏅 Achievements
 
 <p align="center">
