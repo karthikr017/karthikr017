@@ -2,14 +2,13 @@
 
 <!-- Splash Animation / Banner Section -->
 <p align="center">
-  <!-- Replace the src below with your custom animated SVG, GIF, or Lottie animation -->
-  <img src="https://raw.githubusercontent.com/karthikr017/assets/main/agentic-soc-animation.gif" alt="Agentic Workflow SOC Animation" width="700"/>
+  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVvNWwyeTAzY2poYzdteDF3ZDMxdnhhMXI1ZmhkdTZobTAwYmc2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8wMJNlAbhr9rDkq5jz/giphy.gif" alt="Agentic SOC Animation" width="700"/>
 </p>
 
 <h1 align="center">
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/security.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/security.svg" width="42"/>
   <span style="color:#2196F3;">Agentic Workflow</span>
-  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/robot.svg" width="48"/>
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/robot.svg" width="42"/>
 </h1>
 
 <p align="center">
