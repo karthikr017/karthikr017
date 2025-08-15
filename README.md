@@ -120,6 +120,7 @@
   <a href="https://www.linkedin.com/in/karthikr-cybersecurity/"><img src="https://img.shields.io/badge/-LinkedIn-blue?style=for-the-badge&logo=linkedin"/></a>
   <a href="https://karthik-raja-portfolio.lovable.app/"><img src="https://img.shields.io/badge/-Portfolio-green?style=for-the-badge&logo=firefox-browser"/></a>
   <a href="https://medium.com/@hackson"><img src="https://img.shields.io/badge/-Medium-black?style=for-the-badge&logo=medium"/></a>
+  <a href="https://tryhackme.com/p/Hackson.Aloysis"><img src="https://img.shields.io/badge/-TryHackMe-red?style=for-the-badge&logo=tryhackme&logoColor=white"/></a>
 </p>
 
 ---
