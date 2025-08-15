@@ -75,8 +75,8 @@
   Currently competing in the prestigious GENCYS UST CTF Finals.
 - **PENTHATHON CTF-2025 50th Place** among 3600+ teams
 - 🎉 **Letter of Appreciation**  
-  Received a Letter of Appreciation from Lavtia's Government for Outstanding contributions
-  [View Certificate (PDF)](.Achievements/Note Of Appreciation_Karthik Raja_2025.pdf)
+  Received a Letter of Appreciation from Latvia's Government for Outstanding contributions
+[View Certificate (PDF)](https://github.com/karthikr017/karthikr017/blob/main/Achievements/Note%20Of%20Appreciation_Karthik%20Raja_2025.pdf)
 - 🤖 **UiPath Student Developer Summit Attendee**  
   Participated in the UiPath Student Developer Summit—expanding automation and RPA skills.
 - Made **FUND TRAIL ANALYSIS TOOL** for Cyber Crime Headquarters, TamilNadu
