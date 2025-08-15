@@ -125,19 +125,34 @@
 ---
 
 <details>
-  <summary><b>🤖 Fun Facts & Easter Eggs</b> (Click to expand)</summary>
+  <summary><b>🤖 AI SOC Orchestrator Magic <span>&#9889;</span> | Copilot-Powered Security Intelligence (Click to expand)</b></summary>
+  <br>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3600&pause=800&color=36BCF7&center=true&vCenter=true&width=700&lines=Next-Gen+SOC+Automation+with+AI;Agentic+Workflows+Meet+Real-World+Defense;Proactive+Threat+Hunting+at+Machine+Speed;Copilot+in+the+Loop%3A+Human+%2B+AI+Synergy" alt="AI SOC Orchestrator Animated Banner"/>
+  </p>
   <ul>
-    <li>My bash scripts have saved more hours than coffee ever could!</li>
-    <li>I can automate your socks off (or at least your security audits) 🧦</li>
-    <li>Favorite pastime: Turning red teams blue, and blue teams red—sometimes both at once!</li>
-    <li>Ask me about my fridge hacking theory (just kidding... or am I?)</li>
+    <li>
+      <b>🔄 Autonomous Incident Response:</b><br>
+      Orchestrating 24/7 detection, triage, and mitigation—AI-driven workflows supercharge response times and precision.
+    </li>
+    <li>
+      <b>🤖 Agentic Security Operations:</b><br>
+      Harnessing agentic intelligence to adapt, correlate, and outpace emerging threats across the cyber landscape.
+    </li>
+    <li>
+      <b>📊 Unified Threat Visibility:</b><br>
+      Integrating <b>Splunk</b>, <b>Cortex XSOAR</b>, <b>Wazuh</b>, <b>SentinelOne</b> and more, creating a single pane of glass for actionable insights and lightning-fast decisions.
+    </li>
+    <li>
+      <b>✨ Copilot-Enhanced Playbooks:</b><br>
+      Leveraging Copilot to dynamically craft, optimize, and evolve response playbooks—enabling continuous improvement and AI-augmented security leadership.
+    </li>
+    <li>
+      <b>🚀 Future-Ready SOC:</b><br>
+      Blending human intuition with AI automation to architect resilient, scalable defense—transforming alerts into intelligence, and intelligence into action.
+    </li>
   </ul>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=FF4B2B&center=true&vCenter=true&width=600&lines=Ready+to+Redefine+Security+Operations%3F;Let%E2%80%99s+Orchestrate+the+Future+Together!" alt="SOC Call to Action Animation"/>
+  </p>
 </details>
-
----
-
-<p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:36BCF7,100:FF4B2B&height=100&section=footer"/>
-</p>
-
-<p align="center"><b>Thanks for stopping by! 🚀<br/>May your logs be ever verbose and your firewalls ever strong.</b></p>
