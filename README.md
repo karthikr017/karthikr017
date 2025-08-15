@@ -1,16 +1,3 @@
-<!-- Profile README for karthikr017 -->
-
-<!-- Splash Animation / Banner Section -->
-<p align="center">
-  <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExcHVvNWwyeTAzY2poYzdteDF3ZDMxdnhhMXI1ZmhkdTZobTAwYmc2YSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/8wMJNlAbhr9rDkq5jz/giphy.gif" alt="Agentic SOC Animation" width="300"/>
-</p>
-
-<h1 align="center">
-  <img src="[https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/security.svg](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIyazViMWNhMmxtdXdtbWk3bGV6ZnltOGxucTJwc2ZtdzFzd2hmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rN4z2mJCMVp3Sen6AA/giphy.gif)" width="42"/>
-  <span style="color:#2196F3;">Agentic Workflow</span>
-  <img src="[https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/robot.svg](https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExMjIyazViMWNhMmxtdXdtbWk3bGV6ZnltOGxucTJwc2ZtdzFzd2hmciZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/rN4z2mJCMVp3Sen6AA/giphy.gif)" width="42"/>
-</h1>
-
 <p align="center">
   <b>Welcome to my profile!</b><br>
   <i>AI-Powered SOC Orchestration | Real-Time Defense | Automation at Scale</i>
