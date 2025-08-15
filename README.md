@@ -73,7 +73,7 @@
 
 - 🏆 **GENCYS UST CTF 2025 Finalist**  
   Currently competing in the prestigious GENCYS UST CTF Finals.
-- **PENTHATHON CTF-2025 50th Place**
+- **PENTHATHON CTF-2025 50th Place** among 3600+ teams
 - 🎉 **Letter of Appreciation**  
   Received a Letter of Appreciation from Lavtia's Government for Outstanding contributions
   [View Certificate (PDF)](./Achievements/Note_Of_Appreciation_Karthik_Raja_2025.pdf)
