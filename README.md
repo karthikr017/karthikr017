@@ -1,11 +1,4 @@
 <p align="center">
-  <b>Welcome to my profile!</b><br>
-  <i>AI-Powered SOC Orchestration | Real-Time Defense | Automation at Scale</i>
-</p>
-
-<!-- Rest of your PROFILE CONTENT BELOW -->
-
-<p align="center">
   <b style="font-size:2em;">Hackson</b>
 </p>
 <p align="center">
