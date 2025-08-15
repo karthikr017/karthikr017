@@ -97,21 +97,18 @@
 
 ---
 
-### 📊 GitHub Stats & Activity
+### 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=karthikr017&show_icons=true&theme=radical" height="160"/>
-  <img src="https://streak-stats.demolab.com?user=karthikr017&theme=radical&border_radius=8" height="160"/>
-</p>
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=karthikr017&theme=rogue"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=karthikr017&show_icons=true&count_private=true&hide=prs,issues&theme=react&hide_border=false&border_radius=10&include_all_commits=true&custom_title=Karthik's+GitHub+Stats&rank_icon=github" alt="GitHub Stats" height="180"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=karthikr017&theme=react&hide_border=false&stroke=0000&fire=DD2727&currStreakNum=00FFB0&sideNums=00BFFF&border_radius=10" alt="GitHub Streak" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=karthikr017&layout=compact&theme=react&hide_border=false&border_radius=10&langs_count=6" alt="Top Languages" height="180"/>
 </p>
 
 <p align="center">
-  <img src="https://github.com/karthikr017/karthikr017/raw/output/github-contribution-grid-snake.svg"
-       alt="snake animation" style="max-width: 100%;">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=karthikr017&theme=github_dark" height="200"/>
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=karthikr017&theme=github_dark&utcOffset=8" height="200"/>
 </p>
-
 ---
 
 ### 🌐 Find Me Around the Web
