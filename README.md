@@ -86,7 +86,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=F70000&center=true&vCenter=true&width=600&lines=GENCYS+UST+CTF+2025+Finalist!;Currently+Competing+in+the+Finals!" alt="CTF Finals Animation"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Recognized+with+a+Letter+of+Appreciation+for+Outstanding+Contributions!" alt="Appreciation Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=36BCF7&center=true&vCenter=true&width=600&lines=Recognized+with+a+Letter+of+Appreciation+from+Latvia's+Government!" alt="Appreciation Animation"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=FFA500&center=true&vCenter=true&width=600&lines=UiPath+Student+Developer+Summit+Attendee;Leveling+Up+My+Automation+Skills!" alt="UiPath Summit Animation"/>
 </p>
@@ -94,7 +94,7 @@
 - 🏆 **GENCYS UST CTF 2025 Finalist**  
   Currently competing in the prestigious GENCYS UST CTF Finals.
 - 🎉 **Letter of Appreciation**  
-  Received a Letter of Appreciation from Lavtia's Government  
+  Received a Letter of Appreciation from Lavtia's Government for Outstanding contributions
   [View Certificate (PDF)](./Achievements/Note_Of_Appreciation_Karthik_Raja_2025.pdf)
 - 🤖 **UiPath Student Developer Summit Attendee**  
   Participated in the UiPath Student Developer Summit—expanding automation and RPA skills.
