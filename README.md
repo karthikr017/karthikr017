@@ -79,10 +79,21 @@
 
 ### 🚀 Featured Projects
 
-| Project | Description | Links |
-|---------|-------------|-------|
-| **WebScan** | 🕸️ Automated Security Audit Tool for Web Apps | [View Portfolio](https://karthik-raja-portfolio.lovable.app/) |
-| NPIIC Pentathon CTF | 🏆 50th place out of 3600+ teams | [Writeups on Medium](https://medium.com/@hackson) |
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=00FFB0&center=true&vCenter=true&width=600&lines=AI-Orchestrated+Advanced+Phishing+Detection+Project;Live+Threat+Detection+with+Phish-Eye+Guardian+AI!" alt="Phish-Eye Guardian AI Project Animation"/>
+</p>
+
+- 🔎 **AI-Orchestrated Advanced Phishing Detection Project**  
+  Cutting-edge phishing detection powered by AI orchestration.  
+  [🌐 Live Demo](https://phish-eye-guardian-ai.lovable.app/)
+
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1000&color=FF4B2B&center=true&vCenter=true&width=600&lines=Zero-Knowledge+Proof+Web3+Project;Privacy-Preserving+Authentication+on+Chain!" alt="ZKP Web3 Project Animation"/>
+</p>
+
+- 🔐 **ZKP Web3 Project**  
+  Bringing privacy-preserving authentication to Web3 with zero-knowledge proofs.  
+  [🌐 Live Demo](https://vercel.com/karthikr017s-projects/v0-zero-knowledge-proof)
 
 ---
 
