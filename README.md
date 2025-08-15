@@ -86,7 +86,7 @@
 <p align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=F70000&center=true&vCenter=true&width=600&lines=GENCYS+UST+CTF+2025+Finalist!;Currently+Competing+in+the+Finals!" alt="CTF Finals Animation"/>
   <br>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1200&color=36BCF7&center=true&vCenter=true&width=500&lines=Recognized+with+a+Letter+of+Appreciation+from+Latvia's+Government!" alt="Appreciation Animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4500&pause=1200&color=36BCF7&center=true&vCenter=true&width=800&lines=Recognized+with+a+Letter+of+Appreciation+from+Latvia's+Government!" alt="Appreciation Animation"/>
   <br>
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3500&pause=1200&color=FFA500&center=true&vCenter=true&width=600&lines=UiPath+Student+Developer+Summit+Attendee;Leveling+Up+My+Automation+Skills!" alt="UiPath Summit Animation"/>
 </p>
