@@ -1,5 +1,24 @@
 <!-- Profile README for karthikr017 -->
 
+<!-- Splash Animation / Banner Section -->
+<p align="center">
+  <!-- Replace the src below with your custom animated SVG, GIF, or Lottie animation -->
+  <img src="https://raw.githubusercontent.com/karthikr017/assets/main/agentic-soc-animation.gif" alt="Agentic Workflow SOC Animation" width="700"/>
+</p>
+
+<h1 align="center">
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/security.svg" width="48"/>
+  <span style="color:#2196F3;">Agentic Workflow</span>
+  <img src="https://cdn.jsdelivr.net/gh/walkxcode/dashboard-icons/svg/robot.svg" width="48"/>
+</h1>
+
+<p align="center">
+  <b>Welcome to my profile!</b><br>
+  <i>AI-Powered SOC Orchestration | Real-Time Defense | Automation at Scale</i>
+</p>
+
+<!-- Rest of your PROFILE CONTENT BELOW -->
+
 <p align="center">
   <b style="font-size:2em;">Hackson</b>
 </p>
