@@ -94,7 +94,7 @@
 - 🏆 **GENCYS UST CTF 2025 Finalist**  
   Currently competing in the prestigious GENCYS UST CTF Finals.
 - 🎉 **Letter of Appreciation**  
-  Received a Letter of Appreciation for outstanding contributions.  
+  Received a Letter of Appreciation from Lavtia's Government  
   [View Certificate (PDF)](./Achievements/Note_Of_Appreciation_Karthik_Raja_2025.pdf)
 - 🤖 **UiPath Student Developer Summit Attendee**  
   Participated in the UiPath Student Developer Summit—expanding automation and RPA skills.
