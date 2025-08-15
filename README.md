@@ -89,14 +89,33 @@
   <summary><b>🛠️ Tools & Tech Stack</b> (Click to expand)</summary>
   <br/>
   <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=700&lines=Modern+SOC+Suite;+Agentic+Security+Workflows;+Digital+Forensics+%7C+Threat+Hunting;+Automation+%26+AI-Driven+Defense;" alt="Animated Toolset Banner"/>
+  </p>
+  <p align="center">
+    <img src="https://img.shields.io/badge/SentinelOne-7B1FA2?logo=sentinelone&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Cortex%20XSOAR-FF6F00?logo=paloaltonetworks&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/ELK%20Stack-005571?logo=elasticstack&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Wazuh-0277BD?logo=wazuh&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Honeypot-FFB300?logo=honeypot&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Firewalls-E53935?logo=fortinet&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/IDS/IPS-512DA8?logo=snort&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Agentic%20Workflow-2196F3?logo=githubactions&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/SOC%20Simulation-00B8D4?logo=codeforces&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Forensics-607D8B?logo=gnome&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Nmap-4682B4?logo=data:image/svg+xml;base64,...&style=for-the-badge" />
     <img src="https://img.shields.io/badge/BurpSuite-FF6600?logo=burpsuite&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Metasploit-4E8CFF?logo=metasploit&logoColor=white&style=for-the-badge"/>
-    <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white&style=for-the-badge"/>
     <img src="https://img.shields.io/badge/Bash-4EAA25?logo=gnubash&logoColor=white&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Automation-ECECEC?logo=githubactions&logoColor=black&style=for-the-badge"/>
+    <img src="https://img.shields.io/badge/Threat%20Hunting-00C853?logo=target&logoColor=white&style=for-the-badge"/>
+  </p>
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=3000&pause=1000&color=00FFB0&center=true&vCenter=true&width=700&lines=Always+Exploring+New+Tools+and+Techniques!;AI-Driven+SOC+Automation+in+Action!"/>
   </p>
 </details>
 
