@@ -16,15 +16,25 @@
 
 ---
 
-### 🕵️‍♂️ About Me
+### 🛡️ About Me
 
-> "Turning coffee ☕️ into security automation scripts and vulnerabilities into learning opportunities!"
+<p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&duration=4000&pause=1000&color=36BCF7&width=700&lines=Blue+Team+Specialist+%7C+AI+SOC+Orchestrator;Agentic+Workflows+%2B+Security+Ops+%3D+Future;SIEM+%26+SOAR+%E2%9A%A1%EF%B8%8F+Splunk%2C+Cortex+XSOAR%2C+Wazuh%2C+SentinelOne" alt="About Me Typing Animation"/>
+</p>
 
-- 🔥 Placed **50th out of 3600+ teams** at **NPIIC Pentathon CTF-2025**
-- 🛡️ Penetration Tester & Red Teamer, with a growing Blue Team passion
-- 🤖 5+ Security Automation Projects (scripts that run while I sleep 😴)
-- 🎯 Building my career towards SOC L1 Analyst
-- 🐍 Fluent in Python, PHP, Bash, and more
+> "Specializing in defending digital frontiers with next-gen Security Operations and AI-powered orchestration."
+
+- 🛡️ Blue team enthusiast with hands-on expertise in AI SOC Orchestration
+- ⚡ Specialized in SIEM & SOAR:  
+  <img src="https://img.shields.io/badge/Splunk-000000?logo=splunk&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Cortex%20XSOAR-FF6F00?logo=paloaltonetworks&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/Wazuh-0277BD?logo=wazuh&logoColor=white&style=flat-square"/>
+  <img src="https://img.shields.io/badge/SentinelOne-7B1FA2?logo=sentinelone&logoColor=white&style=flat-square"/>
+- 🧠 Innovating at the intersection of agentic workflows and security automation
+- 🚀 Turning complex incidents into orchestrated, actionable intelligence
+
+---
+
 
 ---
 
