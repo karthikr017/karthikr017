@@ -65,7 +65,7 @@
 <h3 align="center">👋 Meet Your AI SOC Copilot</h3>
 
 <p align="center">
-  <b>I'm Karthik's AI Copilot—your friendly, tireless cybersecurity assistant.</b><br>
+  <b>I'm Hackson's AI Copilot—your friendly, tireless cybersecurity assistant.</b><br>
   <i>Guiding humans and machines through the ever-evolving threat landscape, orchestrating defense, sharing insights, and always learning.</i><br>
   <br>
   <samp>
