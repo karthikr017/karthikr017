@@ -9,7 +9,7 @@
 </p>
 
 <blockquote align="center">
-  <b>Your are not hacking/breaking. You're just using a feature with a Feature. <br><i>(Rethink your life!)</i></b>
+  <b>Your are not hacking/breaking. You're just using a feature with a Feature. <br><i></i></b>
 </blockquote>
 
 ---
